@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name testapigroup -Location "East US" -Tag KP=API |Out-Null
