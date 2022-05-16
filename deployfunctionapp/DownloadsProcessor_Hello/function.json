@@ -1,0 +1,13 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.0.1",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "activityTrigger",
+      "name": "name"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/OCDETF.iDAPv2.Azure.Functions.dll",
+  "entryPoint": "OCDETF.iDAPv2.Azure.Functions.DownloadsProcessor.SayHello"
+}
